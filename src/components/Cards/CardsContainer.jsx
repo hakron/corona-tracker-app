@@ -6,7 +6,6 @@ import Cards from "./Cards";
 
 const CardsContainer = ({ data }) => {
   const { confirmed, recovered, deaths, lastUpdate } = data;
-  console.log("data", data);
   if (!confirmed) {
     return "Loading....";
   }
