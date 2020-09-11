@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-![Screenshot](Corona_tracker.png)
+![Corona_tracker](https://user-images.githubusercontent.com/12187795/92937465-a703f380-f44b-11ea-966a-9bdae10fb03a.png)
 
 ## Introduction
 
