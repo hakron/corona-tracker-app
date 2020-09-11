@@ -4,9 +4,8 @@
 
 ## Introduction
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
-
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+COVID-19 Trackerusing React, React Hooks, Charts.JS and Material UI, API data fetching.
+The project is going to fetch the live data from the API using Async/Await syntax. 
 
 API used: https://covid19.mathdro.id/api
 
