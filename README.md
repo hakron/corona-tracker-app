@@ -2,7 +2,8 @@
 
 ![Corona_tracker](https://user-images.githubusercontent.com/12187795/92937465-a703f380-f44b-11ea-966a-9bdae10fb03a.png)
 
-## DEMO [https://coronatracker-c30b8.web.app/]https://coronatracker-c30b8.web.app/
+## DEMO:
+ https://coronatracker-c30b8.web.app/
 ## Introduction
 
 COVID-19 Tracker using React, React Hooks, Charts.JS and Material UI, API data fetching.
